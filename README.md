@@ -1,5 +1,6 @@
 # retrieval-augmented-generation-experiment
 
+A initial exploration of retrieval augmented generation for a research software repository. 
 
 ## Quickstart
 
