@@ -6,3 +6,4 @@ A initial exploration of retrieval augmented generation for a research software 
 
 - Add the API-URL to your .env-file in the root directory
     -  API_URL = "Your Api URL here"
+    -  QUERY = "Your query"
