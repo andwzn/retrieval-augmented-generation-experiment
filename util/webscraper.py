@@ -3,6 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 import re 
 import tldextract
+import numpy as np
 from typing import List, Optional
 
 class WebScraper:
@@ -30,7 +31,7 @@ class WebScraper:
         """
         
         if pd.isna(webpages) or not webpages:
-            return None
+            return np.nan
         
         webpages_content = []
         urls = webpages.split(",")
