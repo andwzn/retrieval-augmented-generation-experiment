@@ -2,6 +2,7 @@
 data/
 todo.txt
 models/
+vectorisations/
 
 #env-file
 .env
