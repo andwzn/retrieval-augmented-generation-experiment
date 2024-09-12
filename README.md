@@ -40,6 +40,6 @@ An initial exploration of retrieval-augmented generation for a research software
 
 7. **Install Ollama**
 
-- Install Ollama and download the model you want to use. For this notebook.
+- Install Ollama and download the model you want to use.
 - To install `llama3`, the model we're using in this notebook, run the following command `ollama run llama3`
 - Ollama has to run in the background for the chat-bots to work.
